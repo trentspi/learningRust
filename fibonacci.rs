@@ -1,4 +1,5 @@
 fn fibonacci(n: i32) -> i32 {
+
   if n == 0 {
     return 0;
   }
@@ -13,7 +14,7 @@ fn fibonacci(n: i32) -> i32 {
 }
 
 fn main() {
-  for x in 0..10 {
+  for x in 0..11 {
     println!("Fibonacci number {} is {} ",x,fibonacci(x));
   }
 }
