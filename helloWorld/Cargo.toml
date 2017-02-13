@@ -1,0 +1,6 @@
+[package]
+name = "helloWorld"
+version = "0.1.0"
+authors = ["trentspi <tspice23@att.net>"]
+
+[dependencies]
