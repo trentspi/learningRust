@@ -1,4 +1,4 @@
-# Naive wc CLI utility in Rust
+# Naive `wc` CLI utility in Rust
 
 ## To build
 `cargo build --release`
