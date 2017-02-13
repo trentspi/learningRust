@@ -1,0 +1,8 @@
+This WC program is counting the amount of characters in a test file!
+
+To build, first run the command: cargo build --release
+Then run this command to run the build: ./target/release/WC test.txt
+This is calling the released executable and using the test.txt as an arguement.
+After calling the WC executable, it should return Total number of characters: 479
+When finished, run the command: cargo clean
+This will remove the target and release. Making it easy to re-build a project.
