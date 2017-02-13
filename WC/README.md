@@ -1,4 +1,7 @@
-# Naive `wc` CLI utility in Rust
+# Naive wc CLI utility in Rust
+
+## To view source
+`cd /src/main.rs`
 
 ## To build
 `cargo build --release`
